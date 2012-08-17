@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']                  = 'Compra';
 
 // Text
@@ -48,6 +48,7 @@ $_['entry_telephone']                = 'Teléfono:';
 $_['entry_fax']                      = 'Fax:';
 $_['entry_account']                  = 'Cuenta:';
 $_['entry_company']                  = 'Compañía:';
+$_['entry_customer_group']           = 'Tipo de Negocio:';
 $_['entry_company_id']               = 'ID de la Compañía:';
 $_['entry_tax_id']                   = 'ID del Impuesto:';
 $_['entry_address_1']                = 'Dirección 1:';
@@ -62,7 +63,7 @@ $_['entry_shipping'] 	             = 'Mi dirección de entrega y facturación es
 // Error
 $_['error_warning']                  = 'Hubo un problema en el procesamiento de tu pedido! Si el problema persiste por favor intenta seleccionar un método de pago diferente o contacta con el dueño de la tienda <a href="%s">haciendo click aquí</a>.';
 $_['error_login']                    = 'Cuiddo: No coincide la dirección de correo y/o contraseña.';
-$_['error_approved']                 = 'Cuiddo: Tu cuenta necesita ser aprobada antes de que puedas iniciar sesión.'; 
+$_['error_approved']                 = 'Cuiddo: Tu cuenta necesita ser aprobada antes de que puedas iniciar sesión.';
 $_['error_exists']                   = 'Cuiddo: Esta dirección de correo ya esta registrada!';
 $_['error_firstname']                = 'El nombre debe tener entre 1 y 32 caracteres!';
 $_['error_lastname']                 = 'El apellido debe tener entre 1 y 32 caracteres!';
