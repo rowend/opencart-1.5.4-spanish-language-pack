@@ -54,3 +54,6 @@ Thank you for use this translation n-n
 2) Notice Error: -------
 2) solution: change the old "Locale" line es_ES.UTF-8,es_ES on Install Instructions for  es_ES.UTF-8,es_ES,Spanish
 -------------------------------------------------------------------------------------------------------------
+3) Person: Eduardo Correa
+3) Notice Error: spelling errors
+-------------------------------------------------------------------------------------------------------------
