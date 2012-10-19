@@ -2,7 +2,7 @@ opencart-1.5.4-spanish-language-pack
 ======================================
 
 ##Description
-This is a Opencart spanish language pack for 1.5.4 version and it is **free**!!!!!!!!!!
+This is a Opencart spanish language pack for 1.5.4 and 1.5.4.1 version and it is **free**!!!!!!!!!!
 
 ##Structure
 * upload folder
