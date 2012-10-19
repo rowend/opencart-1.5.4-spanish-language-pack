@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Contrareembolso';
+$_['text_title'] = 'Contra reembolso';
 ?>
